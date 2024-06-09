@@ -1,6 +1,1 @@
-Tugas Kelompok Interaksi Antar Objek Matkul OOP
-
-Kelas: PSTI-D
-Anggota:
-1. Anastasia Citra Negara (2255061017)
-2. Al Fatih Naufaldo (2215061092)
+Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around data, or objects, rather than functions and logic. Objects represent real-world entities with attributes (data) and behaviors (methods). OOP aims to enhance code reusability, scalability, and maintainability by encapsulating related properties and functions into objects.
