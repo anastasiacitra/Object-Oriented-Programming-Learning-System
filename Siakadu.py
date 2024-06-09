@@ -36,22 +36,17 @@ class Kelas:
     def tambah_mahasiswa(self, mahasiswa):
         self.mahasiswa.append(mahasiswa)
 
-
 mahasiswa1 = Mahasiswa("Anastasia Citra Negara", "2255061017")
 mahasiswa2 = Mahasiswa("Al Fatih Naufaldo", "2215061092")
-
 
 matakuliah1 = MataKuliah("Pemrograman Berorientasi Objek", "PBO123")
 matakuliah2 = MataKuliah("Kecerdasan Buatan", "AI123")
 
-
 dosen1 = Dosen("Pak Puput")
 dosen2 = Dosen("Pak Puput")
 
-
 kelas1 = Kelas(matakuliah1)
 kelas2 = Kelas(matakuliah2)
-
 print ("")
 
 dosen1.tambah_kelas(kelas1)
